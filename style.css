@@ -1,0 +1,47 @@
+
+
+h1 {
+    color: teal;
+    font-size: 40px;
+}
+
+#h2 {
+    color: rgb(18, 202, 202);
+    font-size: 30px
+}
+
+#h1 {
+    color: rgb(18, 202, 202);
+    font-size: 40px;
+}
+#navbar {
+    font-size: 15px;
+    background-color: rgb(18, 202, 202);
+    color: white;
+}
+
+p {
+    background-color: white;
+    color: gray;
+    font-size: 20px
+}
+
+img {
+    height: 250px;
+    padding: 10px;
+}
+
+#small_img {
+    height: 200px;
+    padding: 10px;
+}
+
+#big_img {
+    height: 500px;
+    padding: 50px;
+}
+
+#drop {
+    background-color: white;
+    color: rgb(18, 202, 202);
+}
